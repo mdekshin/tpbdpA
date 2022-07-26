@@ -7,6 +7,6 @@ I targeted to collect gaming data and use analytics to derive the most profitabl
 Collecting a very large highly diversified data was a challenge.
 
 The POC or demo involved in this project is to collect the server logs and find the ipaddress from which most clicks for the site are captured.
-[My link](https://drive.google.com/drive/folders/1UIdpwReCedwKoKQt5LvFI_yUBXR1f2LO?usp=sharing "The Demo") 
+[Video Demo](https://drive.google.com/drive/folders/1UIdpwReCedwKoKQt5LvFI_yUBXR1f2LO?usp=sharing "The Demo") 
 
 The designing of the big data architecture from the scratch gave a new sense of confidence and pride!!! 
